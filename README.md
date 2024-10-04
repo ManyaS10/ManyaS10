@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManyaS10
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
